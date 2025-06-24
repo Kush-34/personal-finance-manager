@@ -30,14 +30,3 @@ Features:
 6. Testing and Documentation (Days 24-25):
    - Write unit tests for key functionalities.
    - Create a user manual with installation and usage instructions.
-
-Guidelines:
-- Use Python and appropriate libraries such as SQLite3 for database management.
-- Focus on clean, maintainable, and well-documented code.
-- Ensure the application handles errors gracefully and has a user-friendly interface.
-
-Note: The timeline is adjusted to complete the project within 25 days.
-
-Feel free to let me know if you need further clarification or assistance with any aspect of the project! internship.innobyteservices@gmail.com
-
-Task Submission Link: https://forms.gle/KBqiVVUqG8zX9zy8
